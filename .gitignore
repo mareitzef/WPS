@@ -6,3 +6,20 @@ configure.wps.backup
 
 # Compiled GRIB2 libraries if --build-grib2-libs option is given to configure script
 grib2
+FILE*
+GRIB*
+met_em*
+geo_em*
+FILE*
+SFILE*
+
+geogrid/GEOGRID copy.TBL 
+geogrid/GEOGRID.TBL_gaspardsimone 
+geogrid/GEOGRID.TBL.ARW_original 
+geogrid/GEOGRID.TBL.ARW.noahmp_original
+geogrid.log
+metgrid.log.0001
+metgrid.log.0000
+metgrid.log
+ungrib.log
+Vtable
